@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arun0364
-- 👀 I’m interested in Biotechnology, Bioinformatics, Molecular Biology and Oncology
-- 🌱 I’m currently learning Biotechnology
+- 👀 I’m interested in Bioinformatics and Oncology
+- 🌱 I’m currently pursuig MS in Quantitative Biology and Bioinformatics @ CMU-MCS
 - 💞️ I’m looking to collaborate on Bioinformatic projects
 - 📫 How to reach me... mailto: arun03bt@gmail.com
 

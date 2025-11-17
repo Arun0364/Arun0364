@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunannamalai Sujatha Bharath Raj (@Arun0364)
 - 👀 I’m interested in Bioinformatics and Oncology
-- 🌱 I’m currently pursuing MS in Quantitative Biology and Bioinformatics @ CMU-MCS
+- 🌱 I’m currently pursuing MS in Quantitative Biology and Bioinformatics @ CMU
 - 💞️ I’m looking to collaborate on Bioinformatic projects
 - 📫 How to reach me... mailto: arun03bt@gmail.com
 
